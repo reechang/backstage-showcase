@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-showcase
+  name: devgate-showcase
   title: Devgate Showcase
   description: |
     This is the Showcase of Devgate
